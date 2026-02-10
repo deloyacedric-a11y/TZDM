@@ -1,16 +1,16 @@
 {
-    "id": 55520,
-    "name": "The lightning road",
-    "author": "Timeless Real",
-    "creators": ["Timeless Real"],
-    "verifier": "Timeless Real",
-    "verification": "https://www.youtube.com/watch?v=QRs3WUaVaDM",
+    "id": 7116121,
+    "name": "Problematic",
+    "author": "Dhafin",
+    "creators": ["Dhafin"],
+    "verifier": "Dhafin",
+    "verification": "https://www.youtube.com/watch?v=O3w3MR3iyh0&list=RDO3w3MR3iyh0&start_radio=1",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
             "user": "Tzamp",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "https://www.youtube.com/watch?v=O3w3MR3iyh0&list=RDO3w3MR3iyh0&start_radio=1",
             "percent": 100,
             "hz": 75
         }
