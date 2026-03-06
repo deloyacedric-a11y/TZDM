@@ -1,9 +1,9 @@
 :root {
-    --color-background: #EEFABD;
-    --color-on-background: #263B6A;
+    --color-background: #F0F3FF;
+    --color-on-background: #211951;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #A0D585;
+    --color-primary: #836FFF;
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
@@ -13,10 +13,10 @@ main.dark,
 header.dark {
     color-scheme: dark;
     --color-background: #6984A9;
-    --color-on-background: #EEFABD;
+    --color-on-background: #836FFF;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #263B6A;
+    --color-primary: #211951;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
     --color-error: #de0000;
